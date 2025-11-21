@@ -16,7 +16,7 @@ A lightweight, beginner-friendly **open-source Python CLI Weather Application** 
 - 📦 Requires only one dependency: `requests`
 - 🎯 Beginner-friendly codebase
 - 📡 Uses the free wttr.in weather API
-- 🛠️ Easy to contribute and extend
+- 🛠 Easy to contribute and extend
 
 ---
 
@@ -27,29 +27,33 @@ A lightweight, beginner-friendly **open-source Python CLI Weather Application** 
 git clone https://github.com/ayushmandas29/weather-cli.git
 cd weather-cli
 2️⃣ Install requirements
+bash
+Copy code
 pip install -r requirements.txt
 ▶️ Usage
-
 Run:
 
+bash
+Copy code
 python main.py
-
 Example:
 
+yaml
+Copy code
 === Advanced Weather App (CLI) ===
 Enter city name: Mumbai
 
 Weather Report:
 Mumbai: ☀️ +32°C
-
 📁 Project Structure
+css
+Copy code
 weather-cli/
 │── main.py
 │── requirements.txt
 │── README.md
 └── LICENSE
 🧠 Roadmap
-
 Upcoming improvements:
 
  Add colored terminal output (rich library)
@@ -66,49 +70,43 @@ Upcoming improvements:
 
  Add Dockerfile support
 
- 🧩 Contributing
-
+🧩 Contributing
 We welcome all contributions!
 
 Fork the repo
 
 Create a new branch:
 
+bash
+Copy code
 git checkout -b feature-name
-
-
 Commit your changes
 
 Push your branch
 
 Open a Pull Request
 
-Read the full contributing guide in
-➡️ CONTRIBUTING.md
+Read the full guide in CONTRIBUTING.md.
 
 🐛 Issues
+Found a bug? Have a feature idea?
 
-Found a bug? Have an improvement idea?
-
-👉 Open an issue here:
+👉 Open an issue:
 https://github.com/ayushmandas29/weather-cli/issues
 
 📜 License
-
 This project is licensed under the MIT License.
 
 ⭐ Support the Project
-
 If you like this project:
 
 ⭐ Star the repo
 
 🍴 Fork it
 
-📝 Open issues
+🐛 Open issues
 
 🚀 Submit pull requests
 
 👨‍💻 Author
-
 Ayushman Das
